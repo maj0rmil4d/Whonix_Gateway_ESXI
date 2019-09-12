@@ -4,3 +4,6 @@ to deploy Whonix-gateway for ESXI please use the link below to download and then
 
 
 DL LINK ( google drive ) => https://drive.google.com/open?id=11dKHFVrnRu8hS6N3cbDhv3t_w3r-VE4_
+
+
+HINT : Do not forget to modify your network configuration after the VM is Up and Running
