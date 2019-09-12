@@ -11,3 +11,7 @@ if you have any problems please tell me ...
 
 tested on ESXI 5.1
 
+#whonix
+#esxi
+#whonix_esxi
+#tor
